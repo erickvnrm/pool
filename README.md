@@ -16,5 +16,20 @@ Este proyecto está desarrollado en **Laravel** y permite gestionar un billar. P
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tuusuario/mi-proyecto-backend.git
-cd mi-proyecto-backend
+git clone https://github.com/erickvnrm/pool.git
+```
+### 2. Generar la key de la app
+```bash
+php artisan key:generate
+```
+### 3. Ejecutar migraciones
+```bash
+php artisan migrate
+```
+### 4. Levantar el servidor local
+```bash
+Php artisan serve
+```
+
+
+
