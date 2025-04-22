@@ -1,4 +1,4 @@
-# Proyecto Backend - Laravel - Livewire
+# Proyecto Backend - Laravel - Livewire - Sanctum - MySQL
 
 Este proyecto está desarrollado en **Laravel** y permite gestionar un billar. Puedes ejecutarlo en tu máquina local usando **XAMPP**.
 
