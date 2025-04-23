@@ -2,6 +2,10 @@
 
 Este proyecto está desarrollado en **Laravel** y permite gestionar un billar. Puedes ejecutarlo en tu máquina local usando **XAMPP**.
 
+Arquitectura y algunos metodos implementados;
+MVC (Model-View-Controller)
+Eloquent ORM (Object-Relational-Mapping)
+
 ---
 
 ## 🧰 Requisitos
