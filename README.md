@@ -16,6 +16,8 @@ Este proyecto está desarrollado en **Laravel** y permite gestionar un billar. P
 
 ---
 
+## Puede probar en Docker **
+
 ## ⚙️ Instrucciones de instalación con XAMPP
 
 ### 1. Clonar el repositorio
