@@ -34,6 +34,3 @@ php artisan migrate
 ```bash
 Php artisan serve
 ```
-
-
-
